@@ -29,7 +29,7 @@ Ensure you have the following installed before running the project:
 
 1. **Clone the Repository**  
    ```bash  
-   git clone https://github.com/Isuru-Pradeep/POS-System-Experimental-Project-.git  
+   git clone https://github.com/Isuru-Pradeep/POS-System-Experimental-Project.git  
    cd POS-System-Experimental-Project  
    ```  
 
